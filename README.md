@@ -36,8 +36,7 @@ You will need to create a .json file in your iCloud drive
 }
 ```
 
-Open to contributions
-
+## Open to contributions
 If you like my stuff and want to support by joining the tesla comunity or signing up to Green energy company (UK only) my links are bellow:
 Tesla referal - https://ts.la/john72161
 Ocotpus Energy - https://share.octopus.energy/alive-owl-500
