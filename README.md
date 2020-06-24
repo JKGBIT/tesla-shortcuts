@@ -40,9 +40,10 @@ You will need to create a .json file in your iCloud drive
 }
 ```
 
-## Open to contributions
+______________________
+Open to contributions
 
-If you like my stuff and want to support by joining the tesla comunity
+If you like my work and want to support by joining the Tesla comunity
 or signing up to Green energy company (UK only) my links are bellow:
 
 Tesla referal - <https://ts.la/john72161>
