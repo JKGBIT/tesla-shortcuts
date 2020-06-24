@@ -3,6 +3,7 @@
 This is a list of shortcuts I've created that I'm sharing with everyone.
 
 ## Core Shortcuts
+
 | Name & Source | iCloud | Description | Requires | Speakable |
 | ------------- | :----: | ----------- | :-------------: | :-------: |
 | Authenticate with Tesla | [Get](https://www.icloud.com/shortcuts/d2e1166c37b843a1a25d826f770af284) | Authenticate with Tesla using your email & password | Tesla account email & password; Tesla Client ID & Client Secret | No |
@@ -13,6 +14,7 @@ This is a list of shortcuts I've created that I'm sharing with everyone.
 | Open/Unlock Chargeport| [Get](https://www.icloud.com/shortcuts/d5ae5e748e6f4210bc457735632ed742) | Opens the charge flap or unlocks the charge cable | Access token & Vehicle ID. Passed in Share Sheet, values on new lines | No |
 
 ## Speakable Shortcuts
+
 | Name & Source | iCloud | Description | Requires | Speakable |
 | ------------- | :----: | ----------- | :-------------: | :-------: |
 | Open Frunk | [Get](https://www.icloud.com/shortcuts/a9e22b3fea344b27a0779edc56489c30) | Opening your Frunk | Requires shortcuts: Authenticate with Tesla, Get Vehicle ID, Wake Up Tesla, Open Frunk | Yes |
@@ -20,13 +22,15 @@ This is a list of shortcuts I've created that I'm sharing with everyone.
 | Open Charge Port | [Get](https://www.icloud.com/shortcuts/2d37746372c64a8abeb6f3d6895f442b) | Use Siri or widget to open/unlock the charge port | Requires shortcuts: Authenticate with Tesla, Get Vehicle ID, Wake Up Tesla, Open/Unlock Chargeport | Yes |
 
 ## iCloud Authentication file
+
 You will need to create a .json file in your iCloud drive
 | Item  |   value   |
 |:-----------:|:------------:|
 | iCloud folder: | /Shortcuts/ |
 | File name: | tesla_credentials.json |
 
-### File Structure 
+### File Structure
+
 ```javascript
 {
     "email": "me@tesla.com",
@@ -37,7 +41,8 @@ You will need to create a .json file in your iCloud drive
 ```
 
 ## Open to contributions
+
 If you like my stuff and want to support by joining the tesla comunity 
 or signing up to Green energy company (UK only) my links are bellow:
-Tesla referal - https://ts.la/john72161
-Ocotpus Energy - https://share.octopus.energy/alive-owl-500
+Tesla referal - <https://ts.la/john72161>
+Ocotpus Energy - <https://share.octopus.energy/alive-owl-500>
