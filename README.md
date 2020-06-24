@@ -1,12 +1,6 @@
-# Tesla Siri Shortcuts
+# Tesla Shortcuts
 
-This is a list of shortcuts I've created that I'm sharing with everyone. I may refactor these from time to time.
-
-## YouTube Links
-
-Creating Custom Siri Shortcuts for you Tesla - [Watch](https://youtu.be/I8koTRZGmIw)  
-Using Siri to Initiate a Software Update on my Tesla - [Watch](https://youtu.be/PLJmQWN9qY8)  
-Shortcuts | Saving Tesla data to your iOS device - Part 1 - [Watch](https://youtu.be/gLXSNbGiz0w)  
+This is a list of shortcuts I've created that I'm sharing with everyone.
 
 ## Core Shortcuts
 | Name & Source | iCloud | Description | Requires | Speakable |
@@ -21,7 +15,7 @@ Shortcuts | Saving Tesla data to your iOS device - Part 1 - [Watch](https://yout
 ## Speakable Shortcuts
 | Name & Source | iCloud | Description | Requires | Speakable |
 | ------------- | :----: | ----------- | :-------------: | :-------: |
-| Let's FrunkPuppy | [Get](https://www.icloud.com/shortcuts/a9e22b3fea344b27a0779edc56489c30) | A FrunkPuppy themed version of opening your Frunk | Requires shortcuts: Authenticate with Tesla, Get Vehicle ID, Wake Up Tesla, Open Frunk | Yes |
+| Open Frunk | [Get](https://www.icloud.com/shortcuts/a9e22b3fea344b27a0779edc56489c30) | Opening your Frunk | Requires shortcuts: Authenticate with Tesla, Get Vehicle ID, Wake Up Tesla, Open Frunk | Yes |
 | Initiate Software Update | [Get](https://www.icloud.com/shortcuts/c8d89f5181bd47beae0088c367c1e862) | Using Siri to start the software update | Requires shortcuts: Authenticate with Tesla, Get Vehicle ID, Wake Up Tesla | Yes |
 | Open Charge Port | [Get](https://www.icloud.com/shortcuts/2d37746372c64a8abeb6f3d6895f442b) | Use Siri or widget to open/unlock the charge port | Requires shortcuts: Authenticate with Tesla, Get Vehicle ID, Wake Up Tesla, Open/Unlock Chargeport | Yes |
 
